@@ -49,7 +49,7 @@ Options:
 * [Thunderbird](https://www.thunderbird.net): has recently allegedly gotten the ability to handle Exchange accounts, so likely worth a look
 
 ### Xcode
-I've basically already excised this from my toolkit already, using command line and VSCode. I think it needs to at least stick around on the drive because other things use its command line tools for building. I don't especially want another big IDE, though --- a fancy text editor is sufficient. 
+I've basically excised this from my toolkit already, using command line and VSCode. I think it needs to at least stick around on the drive because other things use its command line tools for building. I don't especially want another big IDE, though --- a fancy text editor is sufficient. 
 
 ### asdf
 I *love* the idea of a single piece of software handling installation, upgrades, version management, etc. for a wide variety of my software tools. This is a great idea for a thing to exist. Unfortunately asdf is really poorly executed --- plugins behave inconsistently, things break, installed packages don't always make it through upgrades, etc. 
@@ -62,7 +62,7 @@ Options:
 When I'm monkeying around with a complicted SQLite project it's handy to have a GUI explorer of database files. I kind of feel bad picking on [Base](https://menial.co.uk/base/), because it's actually pretty good at what it does! But my purchased version 2 sat unupdated forever, and the very recent (as of this writing) version 3 is a whole new purchase which makes me look around. 
 
 Options:
-* [SQLiteStudio](https://sqlitestudio.pl/): perfectly cromulet; FOSS; just looks pretty clunky on macOS
+* [SQLiteStudio](https://sqlitestudio.pl/): perfectly cromulent; FOSS; just looks pretty clunky on macOS
 * [SQLiteBrowser](https://sqlitebrowser.org/): kind of the same story 
 * just writing my own stupid set of queries when I need them: look.
 
@@ -83,7 +83,7 @@ Options:
 * [GodSVG](https://www.godsvg.com/): only in alpha, might be more focused on simpler icon-like designs, but that's also ok; FOSS
 
 ### Firefox
-I've been a Firefox kid since it was still called Phoenix. When everyone else was falling for Chrome, I avoided it because it had really bad accessibility options for my particular disability and were also pretty arrogant about it when people brought it up to them. Booooo! I'm told they got better but I remained pretty 😤 about it. I still like FF quite a bit, but always keep a skeptical eye on them because the Mozilla Foundation is pretty sketchy. They also seem to be getting hyped about AI. Blergh. There are lots of other usable browsers, but nees to be a pretty big value-add for me to consider changing my daily driver. 
+I've been a Firefox kid since it was still called Phoenix. When everyone else was falling for Chrome, I avoided it because it had really bad accessibility options for my particular disability and were also pretty arrogant about it when people brought it up to them. Booooo! I'm told they got better but I remained pretty 😤 about it. I still like FF quite a bit, but always keep a skeptical eye on them because the Mozilla Foundation is pretty sketchy. They also seem to be getting hyped about AI. Blergh. There are lots of other usable browsers, but needs to be a pretty big value-add for me to consider changing my daily driver. 
 
 Options:
 * [Chrome](https://www.google.com/chrome/): have it on my computer for the sake of testing stuff, but still don't love it
@@ -121,7 +121,7 @@ They got the AI brainworms, and even before then I was losing faith in them beca
 Options:
 * [Bing](https://www.bing.com): LOL no
 * [DuckDuckGo](https://duckduckgo.com/): some people love it but I've always found their results to be kind of lousy (I think they're sourced from Bing anyway?)
-* [Kagi](https://kagi.com/): this is very intriguing; I played with a free trial for a big but was getting anxious by counting my searches; definitely seems to be high quality; do I want another subscription? 
+* [Kagi](https://kagi.com/): this is very intriguing; I played with a free trial for a bit but was getting anxious by counting my searches; definitely seems to be high quality; do I want another subscription? 
 
 ### Gmail
 See above w.r.t. Google. I also have to pay for extra storage and it's annoying to me. 
