@@ -59,7 +59,7 @@ Options:
 * [vfox](https://vfox.dev/): only learned about this while searching to compile this list; definitely worth a deeper investigation
 
 ### Base
-When I'm monkeying around with a complicted SQLite project it's handy to have a GUI explorer of database files. I kind of feel bad picking on [Base](https://menial.co.uk/base/), because it's actually pretty good at what it does! But my purchased version 2 sat unupdated forever, and the very recent (as of this writing) version 3 is a whole new purchase which makes me look around. 
+When I'm monkeying around with a complicated SQLite project it's handy to have a GUI explorer of database files. I kind of feel bad picking on [Base](https://menial.co.uk/base/), because it's actually pretty good at what it does! But my purchased version 2 sat unupdated forever, and the very recent (as of this writing) version 3 is a whole new purchase which makes me look around. 
 
 Options:
 * [SQLiteStudio](https://sqlitestudio.pl/): perfectly cromulent; FOSS; just looks pretty clunky on macOS
