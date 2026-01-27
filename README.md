@@ -2,6 +2,28 @@
 
 There's a lot of software and services I use that I'm kind of bummed about using. Here's where I list *why* I am bummed, and some potential alternatives as I explore them. If I have attempted to actually make any of these moves full-ish time, I'll document here. 
 
+* [Operating Systems](#operating-systems)
+  * [Windows (Easy)](#windows-easy)
+  * [iOS (Hard)](#ios-hard)
+  * [macOS (Very Hard)](#macos-very-hard)
+* [Software](#software)
+  * [Visual Studio Code (Medium)](#visual-studio-code-medium)
+  * [Microsoft Office (Medium)](#microsoft-office-medium)
+  * [Mail.app (Easy)](#mailapp-easy)
+  * [Xcode (~Already)](#xcode-already)
+  * [asdf (Medium)](#asdf-medium)
+  * [Base (Easy)](#base-easy)
+  * [Pixelmator Pro (Medium-Hard)](#pixelmator-pro-medium-hard)
+  * [Affinity Designer (Medium-Hard)](#affinity-designer-medium-hard)
+  * [Firefox (Very Hard)](#firefox-very-hard)
+  * [Backblaze (Hard)](#backblaze-hard)
+  * [Homebrew (Very Hard)](#homebrew-very-hard)
+* [Services](#services)
+  * [Dreamhost (Hard)](#dreamhost-hard)
+  * [Google (Medium)](#google-medium)
+  * [Gmail (Hard)](#gmail-hard)
+  * [GitHub (Medium)](#github-medium)
+
 
 ## Operating Systems
 
