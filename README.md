@@ -158,5 +158,6 @@ They got the AI brainworms and their UX has seemed to be in pretty steep decline
 
 Options:
 * [Gitea](https://about.gitea.com/): would probably host myself, but then need storage somewhere (could maybe leverage a hosting platform)
-* [Codeberg](https://codeberg.org/): what Zig uses
+* [Codeberg](https://codeberg.org/): what Zig uses; non-profit, only allows FOSS which is kinda neat; very strict limits on private repositories which is understandable but not ideal for me
 * [GitLab](https://about.gitlab.com/): what other folks use and are happy with, but also has some brainworms lately
+* hybrid: Codeberg for my public stuff and GitLab for private? 
