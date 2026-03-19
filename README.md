@@ -161,3 +161,4 @@ Options:
 * [Codeberg](https://codeberg.org/): what Zig uses; non-profit, only allows FOSS which is kinda neat; very strict limits on private repositories which is understandable but not ideal for me
 * [GitLab](https://about.gitlab.com/): what other folks use and are happy with, but also has some brainworms lately
 * hybrid: Codeberg for my public stuff and GitLab for private? 
+* [SourceHut](https://sourcehut.org/): only in alpha at the moment; no free plans (though possible to apply for financial aid); seems to be built by reputable folks with good goals; something to keep an eye on as it matures
