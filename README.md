@@ -79,6 +79,7 @@ I *love* the idea of a single piece of software handling installation, upgrades,
 Options:
 * [mise](https://mise.jdx.dev/): written in Rust; one of their selling points is that they are compatible with asdf plugins, which does not fill me with confidence! my problems with asdf are the plugin inconsistencies, not the lack of rust. 
 * [vfox](https://vfox.dev/): only learned about this while searching to compile this list; definitely worth a deeper investigation
+* [pixi](https://pixi.prefix.dev): similar description to vfox; seems Python focused but generic enough it claims to also be a Homebrew replacement? 🙀
 
 ### Base (Easy)
 When I'm monkeying around with a complicated SQLite project it's handy to have a GUI explorer of database files. I kind of feel bad picking on [Base](https://menial.co.uk/base/), because it's actually pretty good at what it does! But my purchased version 2 sat unupdated forever, and the very recent (as of this writing) version 3 is a whole new purchase which makes me look around. 
@@ -111,6 +112,10 @@ Options:
 * [Chrome](https://www.google.com/chrome/): have it on my computer for the sake of testing stuff, but still don't love it
 * [Safari](https://www.apple.com/safari/): better than people think, but always feels a little weird to me. maybe just need to spend more time with it. not cross-platform, though, so would need non-Mac options. 
 * [Orion](https://orionbrowser.com/): 👀; I like the look of this, especially if I go down the Kagi road in larger sense (below)
+* Firefox forks:
+  * [LibreWolf](https://librewolf.net/): privacy focused, maybe a little too much by default (deleting cookies on quit, etc.)
+  * [WaterFox](https://www.waterfox.com/): closer to base Firefox, just minus telemetry? claims to have more "customization and control" but unclear what that means
+  * [Zen Browser](https://zen-browser.app/): tab organization, claiming to be more calming (dubious), but worth a poke maybe? 
 
 ### Backblaze (Hard)
 Pretty good backup, but I keep reading that the company might go out of business? Also the few times I've needed to do a serious restore from them the process has been arduous and faulty. 
