@@ -4,6 +4,7 @@ There's a lot of software and services I use that I'm kind of bummed about using
 
 * [Operating Systems](#operating-systems)
   * [Windows (Easy)](#windows-easy)
+    * [Exploration: SteamOS via SteamDeck](#exploration-steamos-via-steamdeck)
   * [iOS (Hard)](#ios-hard)
   * [macOS (Very Hard)](#macos-very-hard)
 * [Software](#software)
@@ -37,6 +38,15 @@ Options:
 
 I have not investigated either of these beyond their existence. 
 
+#### Exploration: SteamOS via SteamDeck
+Since I'm about to move abroad for a time and bringing even my little PC is not feasible, I was able to scrounge a SteamDeck from a generous friend. This will basically cover my "PC gaming" needs for the forseeable future. 
+
+* the thing just works, especially for Steam, unsurprisingly
+* underpowered relative to my desktop PC, but not a fair fight (frustration, small)
+* installing non-Steam games is a pain; doable, but some, like stuff from EGS that needs to pipe through the Rockstar Launcher [ugh], seem impossible (frustration, medium)
+* battery life isn't great (annoyance) but will keep me from binging (upside)
+    * this is, to be fair, more a hardware annoyance than a software one
+
 ### iOS (Hard)
 I've used an iPhone since 2008, and am pretty deep into the ecosystem at this point. I know there are other mobile OSes, but the only really viable one is Android, and I feel like that would be a lateral move at best. 
 
@@ -45,6 +55,7 @@ I've used a Mac since... the early 90s? I'm pretty comfortable with it at this p
 
 Options:
 * [Ubuntu](https://ubuntu.com/desktop) or [Debian](https://www.debian.org/), most likely
+    * Ubuntu seems to have gotten some brainworms? Need to investigate other distros.
 
 ## Software
 
