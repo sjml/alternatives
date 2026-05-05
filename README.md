@@ -8,6 +8,7 @@ There's a lot of software and services I use that I'm kind of bummed about using
   * [macOS (Very Hard)](#macos-very-hard)
 * [Software](#software)
   * [Visual Studio Code (Medium)](#visual-studio-code-medium)
+    * [Exploration: Zed](#exploration-zed)
   * [Microsoft Office (Medium)](#microsoft-office-medium)
   * [Mail.app (Easy)](#mailapp-easy)
   * [Xcode (~Already)](#xcode-already)
@@ -55,6 +56,25 @@ Options:
 * [Nova](https://nova.app/): very Mac-y, smooth, fun, Panic is good; costly, subscription-based, not much community around it, Panic seems to be losing interest
 * [CodeEdit](https://www.codeedit.app/): very Mac-y, open source, good vision; not quite cooked yet, had some crashes when I was playing around with it
 * Sublime, Vim, etc: I use Sublime as my lower-level text editor already; I am not smart enough for vim
+
+#### Exploration: Zed
+I'm starting experimentally using Zed as my daily driver, now that I have some window of time where my work therein is not terribly pressing and I have the time to push past frictions and do some adaptation of my own habits. For the _most_ part, it works out pretty well! 
+
+* performance is good, functionality is strong
+* in general it seems like it's a little less good at remembering recently used commands in the palette (papercut)
+* harder to configure in general --- fewer handles for control, less documentation around things like themes (frustration)
+    * command to switch indentation between spaces and tabs only works on current line or selection, not whole file; not configurable
+    * can't easily change formatting characters for Markdown (I prefer using `_` for italics and `**` for bold)
+    * no workspace support; not a dealbreaker but notable for complicated projects
+* limited extension capabilities (annoyance)
+    * affects indirectly in there are fewer extensions that do stuff I like
+    * directly in I can't easily make extensions that I have in the past
+    * ON THE WHOLE: this is probably a good thing, as it keeps the whole thing from spiraling out
+    * BUT I wish it was easier to just whip up a thing to do a thing
+    * No way for extensions to add commands, which is a big limit
+        * not just "not yet" but seems to be technically/philosophically impeded: https://github.com/zed-industries/zed/issues/8441#issuecomment-3109284484
+
+On the whole, I'm going to keep going on this experiment --- it's promising, especially for something that only just recently (as of this writing) reached v1.0. 
 
 ### Microsoft Office (Medium)
 Why must Copilot be in everything?! I'm not personally super dependent on this but often times need to collaborate on docs made by other people, so it may be a necessary evil for my line of work. 
