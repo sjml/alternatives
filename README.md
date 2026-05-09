@@ -84,6 +84,9 @@ I'm starting experimentally using Zed as my daily driver, now that I have some w
     * BUT I wish it was easier to just whip up a thing to do a thing
     * No way for extensions to add commands, which is a big limit
         * not just "not yet" but seems to be technically/philosophically impeded: https://github.com/zed-industries/zed/issues/8441#issuecomment-3109284484
+* theme configuration is wildly frustrating; right now text for HTML and Markdown seems very desaturated and I cannot for the life of me figure out which variable to set to change it to white 
+    * [the theme builder](https://zed.dev/theme-builder) is a good idea but only has examples of handful of filetypes
+    * no way (that I can see) in the editor itself to figure out what the scope of a particular token is
 
 On the whole, I'm going to keep going on this experiment --- it's promising, especially for something that only just recently (as of this writing) reached v1.0. 
 
