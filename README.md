@@ -174,7 +174,8 @@ Options:
 I've used them for 20+ years and they aren't bad; I like having shell access, lots of space. They do not appear to be profiteering jackasses. At the same time: my upload speeds have become terrible from anywhere in the world. There's some bug that locks me out of SSH access intermittently and they don't seem to care. Most of my web stuff is just static hosting, some PHP is nice to have but not needed. 
 
 Options:
-* (need to research this as my needs are simultaneously simple [don't need general app deployment, by and large] and complicated [would like to be able to actually SSH in, compile software, etc])
+* [DigitalOcean](https://www.digitalocean.com/): pricing is good, would be virtual private server; big downsides in that keeping the server up-to-date would become my problem, plus losing Dreamhost's infinite storage and bandwidth (not something I really run into, but definitely a nice to have on occasion)
+* (need to research more options as my needs are simultaneously simple [don't need general app deployment, by and large] and complicated [would like to be able to actually SSH in, compile software, etc])
 
 ### Google (Medium)
 They got the AI brainworms, and even before then I was losing faith in them because the ads were infecting everything. 
