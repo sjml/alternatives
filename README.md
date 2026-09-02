@@ -70,6 +70,8 @@ Options:
 * [Zed](https://zed.dev/): nice, fast, big single killswitch to turn off AI; lack of support for some stuff I currently do, but plugin community seems like it's growing
 * [Nova](https://nova.app/): very Mac-y, smooth, fun, Panic is good; costly, subscription-based, not much community around it, Panic seems to be losing interest
 * [CodeEdit](https://www.codeedit.app/): very Mac-y, open source, good vision; not quite cooked yet, had some crashes when I was playing around with it
+* [JetBrains stuff](https://www.jetbrains.com): free tier for some of their offerings which would actually cover a lot of my more IDE-y needs (Rider for games stuff; CLion for C/C++; WebStorm for TypeScript), but others are EXPENSIVE; a little weird to have separate programs for different tasks but I guess that's how old school IDEs were and we didn't complain; some people absolutely swear by them as best-in-class
+* [Helix](https://helix-editor.com/): text-based but modern (started development post-2020); seems neat but am I ready to become That Guy™ with a TUI?!
 * Sublime, Vim, etc: I use Sublime as my lower-level text editor already; I am not smart enough for vim
 
 #### Exploration: Zed
