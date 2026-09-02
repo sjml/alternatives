@@ -16,6 +16,7 @@ There's a lot of software and services I use that I'm kind of bummed about using
   * [Xcode (~Already)](#xcode-already)
   * [asdf (Medium)](#asdf-medium)
   * [1Password (Medium)](#1password-medium)
+    * [Exploration: BitWarden](#exploration-bitwarden)
   * [Base (Easy)](#base-easy)
     * [Resolution: did not replace](#resolution-did-not-replace)
   * [Pixelmator Pro (Medium-Hard)](#pixelmator-pro-medium-hard)
@@ -137,6 +138,14 @@ Options
 * [LastPass](https://www.lastpass.com): Basically a direct competitor with, as far as I can tell, feature parity. They've had a lot of security snafus in the past, though, which is unfortunate for something so central. 
 * [BitWarden](https://bitwarden.com/): Open source, potentially free (need to investigate), gets rave reviews; doesn't have Travel Mode which might bring some peace-of-mind crossing hostile borders (which I do), but I've never really used on 1Password so far anyway
 * [Apple Passwords](https://apps.apple.com/us/app/passwords/id6473799789): Always like using stuff from the OS vendor, but I *do* also need to work on Windows and it looks to be a half-hearted effort there (explicitly doesn't work with Firefox on Windows, which makes the whole thing kind of non-starter, unfortunately)
+
+#### Exploration: BitWarden
+Going to try BitWarden for one year. Seems to mostly have feature parity with 1Password (at least the features I use) and the OSS nature of it gives me some more trust than I might have otherwise. Downside: the corporate side has a new CEO who specializes in private equity acquisitions so that is an extremely 😬 possibility. Time will tell! 
+
+* Easy import from 1Password
+* Works cross-platform and cross-browser
+* Took the opportunity to rotate my master passphrase which I will have to work to remember, but that's not the software's fault
+  
 
 ### Base (Easy)
 When I'm monkeying around with a complicated SQLite project it's handy to have a GUI explorer of database files. I kind of feel bad picking on [Base](https://menial.co.uk/base/), because it's actually pretty good at what it does! But my purchased version 2 sat unupdated forever, and the very recent (as of this writing) version 3 is a whole new purchase which makes me look around. 
