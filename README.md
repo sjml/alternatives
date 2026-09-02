@@ -11,10 +11,13 @@ There's a lot of software and services I use that I'm kind of bummed about using
   * [Visual Studio Code (Medium)](#visual-studio-code-medium)
     * [Exploration: Zed](#exploration-zed)
   * [Microsoft Office (Medium)](#microsoft-office-medium)
+    * [Exploration: LibreOffice](#exploration-libreoffice)
   * [Mail.app (Easy)](#mailapp-easy)
   * [Xcode (~Already)](#xcode-already)
   * [asdf (Medium)](#asdf-medium)
+  * [1Password (Medium)](#1password-medium)
   * [Base (Easy)](#base-easy)
+    * [Resolution: did not replace](#resolution-did-not-replace)
   * [Pixelmator Pro (Medium-Hard)](#pixelmator-pro-medium-hard)
   * [Affinity Designer (Medium-Hard)](#affinity-designer-medium-hard)
   * [Firefox (Very Hard)](#firefox-very-hard)
@@ -98,6 +101,18 @@ Options:
 * [LibreOffice](https://www.libreoffice.org/): haven't checked it out in a while, last time was pretty slow and chuggy, produces stuff that doesn't look as good
 * [Pages](https://www.apple.com/in/pages/)/[Numbers](https://www.apple.com/in/numbers/)/[Keynote](https://www.apple.com/in/keynote/): I already use Keynote for most presentations, but the others seem less good overall; upside is they are free with macOS
 
+#### Exploration: LibreOffice
+I'm in the in-between phase where I've lost my university access to MS Office but do not yet have the access I'll get once I start my long-term assignment, so have been using LibreOffice in the meantime. 
+
+It's actually pretty great! In some ways better:
+* it doesn't try to do as much _magic_ with formatting; reminds me of the olden days when computers only did what I told them to do
+* runs fast and takes up less disk space
+* seems to cover the majority of features that **I** use, at least
+
+Only downsides I've noticed are some mild formatting differences and a couple settings that are a little wonky, but nothing I couldn't adjust to. 
+
+On the whole, very happy with it! So chalk this one up as a proper replacement, at least until I'm pushed back into the Microsoft system by a job! 
+
 ### Mail.app (Easy)
 Because of my various life of academia, work, religious organizations, and personal mail, at any time I have 5-6 email accounts I regularly use. I like keeping them separate, but I also like accessing them through a shared interface --- preferably a native one. For about ten years I've settled on the built-in Apple Mail.app as it hits all those points pretty well. But it's never been great for search and seems to be languishing. It is also locked to macOS, which limits flexibility for OS movements, as mentioned above. 
 
@@ -115,6 +130,14 @@ Options:
 * [vfox](https://vfox.dev/): only learned about this while searching to compile this list; definitely worth a deeper investigation
 * [pixi](https://pixi.prefix.dev): similar description to vfox; seems Python focused but generic enough it claims to also be a Homebrew replacement? 🙀
 
+### 1Password (Medium)
+Been using them for about 12 years and been happy, especially with the cross-platform ease of it all. BUT, they've been pushing more into enterprise stuff lately which is probably great for their shareholders and meaningless to me as an individual. I've been a bit wary for a while, but now they're donating to Omarchy which I thought was just a Linux distro but is quickly becoming some kind of rallying point in the culture wars? I'd rather just not.
+
+Options
+* [LastPass](https://www.lastpass.com): Basically a direct competitor with, as far as I can tell, feature parity. They've had a lot of security snafus in the past, though, which is unfortunate for something so central. 
+* [BitWarden](https://bitwarden.com/): Open source, potentially free (need to investigate), gets rave reviews; doesn't have Travel Mode which might bring some peace-of-mind crossing hostile borders (which I do), but I've never really used on 1Password so far anyway
+* [Apple Passwords](https://apps.apple.com/us/app/passwords/id6473799789): Always like using stuff from the OS vendor, but I *do* also need to work on Windows and it looks to be a half-hearted effort there (explicitly doesn't work with Firefox on Windows, which makes the whole thing kind of non-starter, unfortunately)
+
 ### Base (Easy)
 When I'm monkeying around with a complicated SQLite project it's handy to have a GUI explorer of database files. I kind of feel bad picking on [Base](https://menial.co.uk/base/), because it's actually pretty good at what it does! But my purchased version 2 sat unupdated forever, and the very recent (as of this writing) version 3 is a whole new purchase which makes me look around. 
 
@@ -122,6 +145,9 @@ Options:
 * [SQLiteStudio](https://sqlitestudio.pl/): perfectly cromulent; FOSS; just looks pretty clunky on macOS
 * [SQLiteBrowser](https://sqlitebrowser.org/): kind of the same story 
 * just writing my own stupid set of queries when I need them: look.
+
+#### Resolution: did not replace
+I eventually just bought a license for the new version; I like it enough that it felt worth it to me. Might end up back in this spot again in a couple years, but we'll re-evaluate at that point.
 
 ### Pixelmator Pro (Medium-Hard)
 I purchased this a while back as a replacement for Photoshop when Adobe went over to subscription prices. It's pretty good and I like it! But then Apple bought it and rolled it into a subscription. 🙃 Unclear if my exising purchase will continue to work into the future. I also use heavy-duty image editing only sporadically.
@@ -175,7 +201,9 @@ I've used them for 20+ years and they aren't bad; I like having shell access, lo
 
 Options:
 * [DigitalOcean](https://www.digitalocean.com/): pricing is good, would be virtual private server; big downsides in that keeping the server up-to-date would become my problem, plus losing Dreamhost's infinite storage and bandwidth (not something I really run into, but definitely a nice to have on occasion)
-* (need to research more options as my needs are simultaneously simple [don't need general app deployment, by and large] and complicated [would like to be able to actually SSH in, compile software, etc])
+* [NixiHost](https://www.nixihost.com/hosting/shared): pricing is pretty good; limited (but not unreasonable) disk space; no SSH --- have not investigated performance, reliability, etc.
+    * 
+* [Liquid Web](https://www.liquidweb.com/vps-hosting/self-managed/): link is to their self-managed VPS option; pricing good and disk allocation generous, but having to manage myself is 😬; they have a managed VPS option which is kind of the ideal, but WOAH pricey --- have not investigated performance, reliability, etc.
 
 ### Google (Medium)
 They got the AI brainworms, and even before then I was losing faith in them because the ads were infecting everything. 
