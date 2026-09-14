@@ -147,7 +147,13 @@ Going to try BitWarden for one year. Seems to mostly have feature parity with 1P
 * Easy import from 1Password
 * Works cross-platform and cross-browser
 * Took the opportunity to rotate my master passphrase which I will have to work to remember, but that's not the software's fault
-  
+* Find myself missing the system-wide keyboard shortcut to invoke it (Cmd-Shift-Space); menu bar + Spotlight invoking isn't bad; just a matter of muscle memory
+* Unable to sort list of passwords in any way, which feels like an *extremely* basic missing feature?!
+  * Especially useful to be able to see recently-created logins and stuff so they're right there
+* BUG: iOS prompted me to generate a password, promising to store it in Bitwarden; it was nowhere to be found! Had to manually reset that site's password and store it manually
+  * Maybe an Apple bug but feels for more likely to be something that went wrong in Bitwarden
+  * But because I can't sort logins by recently created (and thus maybe see that the generated password was stored under some other name) I have no idea! 
+    * (Exported the DB to JSON just so I **could** actually search for passwords created today and confirmed that it just never entered Bitwarden. Which sucks! But also: the creation/modification data *is* available; they just don't deign to let users sort by it. Frustrating!)
 
 ### Base (Easy)
 When I'm monkeying around with a complicated SQLite project it's handy to have a GUI explorer of database files. I kind of feel bad picking on [Base](https://menial.co.uk/base/), because it's actually pretty good at what it does! But my purchased version 2 sat unupdated forever, and the very recent (as of this writing) version 3 is a whole new purchase which makes me look around. 
