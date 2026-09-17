@@ -154,6 +154,8 @@ Going to try BitWarden for one year. Seems to mostly have feature parity with 1P
   * Maybe an Apple bug but feels for more likely to be something that went wrong in Bitwarden
   * But because I can't sort logins by recently created (and thus maybe see that the generated password was stored under some other name) I have no idea! 
     * (Exported the DB to JSON just so I **could** actually search for passwords created today and confirmed that it just never entered Bitwarden. Which sucks! But also: the creation/modification data *is* available; they just don't deign to let users sort by it. Frustrating!)
+* Seems like there's a disconnect between the browser plugin and the desktop --- they don't unlock together, and saving to one does not seem to reliably save to the other
+  * Could be that they're not directly connected like 1Password is, but rely on syncing, which lags? In any case, it's annoying. 
 
 ### Base (Easy)
 When I'm monkeying around with a complicated SQLite project it's handy to have a GUI explorer of database files. I kind of feel bad picking on [Base](https://menial.co.uk/base/), because it's actually pretty good at what it does! But my purchased version 2 sat unupdated forever, and the very recent (as of this writing) version 3 is a whole new purchase which makes me look around. 
